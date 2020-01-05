@@ -1,0 +1,13 @@
+.add-new-post__editor_question .ql-container,
+.add-new-post__editor_question .ql-editor {
+  min-height: 100px;
+}
+.add-new-post__editor_options .ql-container,
+.add-new-post__editor_options .ql-editor {
+  min-height: 50px;
+}
+.label_center_aligned {
+  color: green;
+  padding-top: 10px;
+  padding-left: 45%;
+}
